@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 29 14:01:26 EST 2019
+0.baseType=DIRECTORY
+0.base=/Users/stl/Desktop/PURSUIT/android-advanced-starter-apps-master/FragmentExample1/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
